@@ -11,7 +11,7 @@ import os
 
 import jsonpickle
 import numpy as np
-
+import matplotlib as mp
 
 def truncate_float_array(xs, precision=3):
     """
